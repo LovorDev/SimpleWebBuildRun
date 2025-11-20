@@ -10,15 +10,6 @@ Editor tools to run a WebGL build in a simple HTTP server right from Unity. Show
 - Automatically stops the server on Unity Editor quit.
 - Detects an already running server and stops it before starting a new one.
 
-## Requirements
-- Unity `2020.3+` (tested in Windows Editor).
-- A `SimpleWebServer` implementation available in your project, providing:
-  - `Start(string rootPath, string baseUrl)`
-  - `Stop()`
-  - `GetUnusedPort(): int`
-  - `GetLocalIPAddress(): string`
-- Firewall permissions to allow inbound connections for LAN mode.
-
 ## Installation
 
 ### Via Unity Package Manager (Git URL)
