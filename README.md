@@ -24,7 +24,7 @@ Editor tools to run a WebGL build in a simple HTTP server right from Unity. Show
 ### Via Unity Package Manager (Git URL)
 - Open `Window > Package Manager`.
 - Click `+` and choose `Add package from Git URL...`.
-- Enter: `https://github.com/<your-org>/<repo>.git#1.0.0`
+- Enter: `https://github.com/LovorDev/SimpleWebBuildRun.git#1.0.0`
 
 ### From disk (local folder)
 - Place this folder in your project under `Packages/` or use `Add package from disk...` and select this folder (it contains `package.json`).
