@@ -67,12 +67,5 @@ Editor tools to run a WebGL build in a simple HTTP server right from Unity. Show
 - Server doesn’t stop:
   - Close the control window (X) or use `Tools > Stop WebGL Build in Simple Web Server`.
 
-## Development
-- Editor scripts live under `Editor/`:
-  - `WebGLServerMenu.cs`: menu entries and refactored host selection.
-  - `SimpleWebServerWindow.cs`: the control window.
-  - `SimpleWebServerManager.cs`: lifecycle management and Editor quit hook.
-- Tag releases (`1.0.0`) for UPM consumption via Git URL (`#<tag>`).
-
 ## License
-Choose and add a license file appropriate for your project (e.g., MIT).
+- MIT
