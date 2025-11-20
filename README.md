@@ -52,6 +52,9 @@ Editor tools to run a WebGL build in a simple HTTP server right from Unity. Show
   - `Copy link`: copies the URL to the clipboard.
 - Closing the window (X) immediately stops the server.
 
+![20251120-1510-24 3712839](https://github.com/user-attachments/assets/335587ed-0b99-4aac-a50e-c808c74b9a16)
+
+
 ## LAN Notes
 - The server binds to `+` (all interfaces) and your URL uses `http://<your LAN IP>:<port>/`.
 - Ensure Windows Firewall (or your OS firewall) allows inbound access to the selected port.
