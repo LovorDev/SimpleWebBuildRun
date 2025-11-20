@@ -1,0 +1,12 @@
+{
+  "name": "com.yourorg.simple-webgl-server",
+  "displayName": "Simple WebGL Server Tools",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Editor tools to run WebGL builds in a local simple server with a small control window.",
+  "keywords": ["webgl", "server", "editor"],
+  "author": {
+    "name": "Your Name",
+    "url": "https://github.com/yourname"
+  }
+}
